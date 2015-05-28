@@ -1,0 +1,30 @@
+{
+  "name": "data.blankon.id-wms-tiles",
+  "version": "1.0.0",
+  "description": "Fetch and cache tiles from WMS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make clean && make test"
+  },
+  "keywords": [
+    "wms",
+    "blankon",
+    "data",
+    "map",
+    "cache"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^2.7.2",
+    "hyperquest": "^1.2.0"
+  },
+  "devDependencies": {
+    "code": "^1.4.0",
+    "hapi": "^8.5.2",
+    "lab": "^5.9.0"
+  }
+}
