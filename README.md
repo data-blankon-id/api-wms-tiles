@@ -1,0 +1,2 @@
+# NKRI Basemap cache server
+
